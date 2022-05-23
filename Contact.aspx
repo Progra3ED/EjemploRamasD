@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Crear Recetas.</h3>
+    <h3>Modifico Recetas</h3>
     <address>
         Cambi el texto</address>
 
